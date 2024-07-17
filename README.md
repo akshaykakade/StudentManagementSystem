@@ -46,7 +46,7 @@ We welcome contributions from the community. To contribute to the project, pleas
 ## Contact
 Akshay Kakade - https://www.linkedin.com/in/kakadeakshay/
 
-Project Link: [https://github.com/akshaykakade61/StudentManagementSystem]
+Project Link: [https://github.com/akshaykakade/StudentManagementSystem]
 
 ## Acknowledgements
 [Spring Boot]
